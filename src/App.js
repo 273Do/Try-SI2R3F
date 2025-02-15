@@ -17,8 +17,8 @@ export const App = () => (
       </a>
       <div className="button gray">///</div>
     </div>
-    <Scene style={{ borderRadius: 20 }} />
+    {/* <Scene style={{ borderRadius: 20 }} /> */}
     {/* <Test1 /> */}
-    {/* <Test2 /> */}
+    <Test2 />
   </div>
 );
